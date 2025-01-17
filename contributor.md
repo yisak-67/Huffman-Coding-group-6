@@ -20,7 +20,7 @@
 
 4. **[Name 4]**  
    - Task: Documentation and Report Writing  
-   - GitHub Username: [friol]
+   - GitHub Username: [firaol-tag]
 
 5. **[Name 5]**  
    - Task: GitHub Setup and Code Review  
