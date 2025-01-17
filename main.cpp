@@ -4,7 +4,6 @@
 #include <vector>
 #include <string>
 using namespace std;
-
 // A Huffman tree node
 struct Node {
     char ch;
@@ -39,6 +38,7 @@ struct compare {
 void printCodes(Node* root, string str,
                 unordered_map<char, string>& huffmanCode)
 {
+    
     if (root == nullptr)
         return;
 
