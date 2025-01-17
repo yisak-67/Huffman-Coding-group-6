@@ -12,7 +12,7 @@
 
 2. **[Name 2]**  
    - Task: Encoding Logic  
-   - GitHub Username: [yawkal]
+   - GitHub Username: [yawksh]
 
 3. **[Name 3]**  
    - Task: Decoding Logic and Testing  
