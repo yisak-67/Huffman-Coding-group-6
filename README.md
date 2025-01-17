@@ -19,14 +19,14 @@ The core implementation of Huffman Coding includes the following key components:
         : ch(ch), freq(freq), left(left), right(right) {}
 };
 
-## Priority Queue Comparison Object
+### Priority Queue Comparison Object
   struct compare {
     bool operator()(Node* l, Node* r) {
         return l->freq > r->freq;
     }
 };
 
-## Huffman Tree Construction and Encoding
+### Huffman Tree Construction and Encoding
 
 A priority queue is used to construct the Huffman Tree efficiently.
 
@@ -60,7 +60,7 @@ void buildHuffmanTree(string text) {
     unordered_map<char, string> huffmanCode;
     printCodes(root, "", huffmanCode);
 }
-## Interactive User Input
+### Interactive User Input
 
 The program prompts users to input a text string for compression and displays:
 
