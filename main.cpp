@@ -15,15 +15,13 @@ struct Node {
         , freq(freq)
         , left(nullptr)
         , right(nullptr)
-    {
-    }
+    {}
     Node(char ch, int freq, Node* left, Node* right)
         : ch(ch)
         , freq(freq)
         , left(left)
         , right(right)
-    {
-    }
+    {}
 };
 
 // Comparison object to be used to order the heap
