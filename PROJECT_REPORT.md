@@ -25,3 +25,4 @@ Huffman Coding is efficient for compressing text with skewed frequency distribut
 
 ## References
 - [Huffman Coding on Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
+- [Huffman coding on geeksforgeeks](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
