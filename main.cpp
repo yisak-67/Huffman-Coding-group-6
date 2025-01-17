@@ -40,6 +40,7 @@ struct compare {
 void printCodes(Node* root, string str,
                 unordered_map<char, string>& huffmanCode)
 {
+    
     if (root == nullptr)
         return;
 
