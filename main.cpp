@@ -5,6 +5,7 @@
 #include <string>
 using namespace std;
 
+
 // A Huffman tree node
 struct Node {
     char ch;
