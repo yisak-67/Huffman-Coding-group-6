@@ -7,22 +7,19 @@
 
 
 ## Team Members
-1. **[Name 1]**  
+1. Name  Yisak Zemedu
    - Task: Huffman Tree Implementation  
    - GitHub Username: [yisak-67]
 
-2. **[Name 2]**  
-   - Task: Encoding Logic  
+2 Name Yawukal Fentaw 
+   - Task: Encoding Logic  ,GitHub Setup and Code Review  
    - GitHub Username: [yawksh]
 
-3. **[Name 3]**  
+3.Name Feven 
    - Task: Decoding Logic and Testing  
    - GitHub Username: [feven]
 
-4. **[Name 4]**  
+4 Name Fraol  
    - Task: Documentation and Report Writing  
    - GitHub Username: [friol]
 
-5. **[Name 5]**  
-   - Task: GitHub Setup and Code Review  
-   - GitHub Username: [yisak]
