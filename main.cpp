@@ -22,7 +22,8 @@ struct Node {
         , left(left)
         , right(right)
     {}
-};
+
+
 
 // Comparison object to be used to order the heap
 struct compare {
@@ -48,6 +49,7 @@ void printCodes(Node* root, string str,
     printCodes(root->left, str + "0", huffmanCode);
     printCodes(root->right, str + "1", huffmanCode);
 }
+
 
 // Function to build the Huffman Tree and generate Huffman Codes
 void buildHuffmanTree(string text)
