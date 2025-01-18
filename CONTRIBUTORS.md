@@ -15,11 +15,11 @@
    - Task: Encoding Logic  ,GitHub Setup and Code Review  
    - GitHub Username: [yawksh]
 
-3.Name Feven 
+3.Name Feven Wendmu
    - Task: Decoding Logic and Testing  
    - GitHub Username: [feven]
 
-4 Name Fraol  
+4 Name Fraol  Tegne
    - Task: Documentation and Report Writing  
    - GitHub Username: [friol]
 
