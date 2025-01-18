@@ -98,11 +98,14 @@ The priority queue ensures that the construction of the Huffman Tree is efficien
 
 #### Additional Features
 
-#### Interactive Menu: The program includes an interactive menu to guide users through encoding and decoding operations.
+#### Interactive Menu: 
+The program includes an interactive menu to guide users through encoding and decoding operations.
 
-#### Frequency Table Display: The program displays a detailed frequency table of characters before building the Huffman Tree, helping users understand the compression process.
+#### Frequency Table Display: 
+The program displays a detailed frequency table of characters before building the Huffman Tree, helping users understand the compression process.
 
-#### Memory Management: Proper cleanup of dynamically allocated memory ensures there are no memory leaks.
+#### Memory Management: 
+Proper cleanup of dynamically allocated memory ensures there are no memory leaks.
 
 #### Future Enhancements
 
