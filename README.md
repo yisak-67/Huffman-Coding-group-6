@@ -39,6 +39,7 @@ The program encodes the input text into a binary string using the generated code
 Decoding reverses the process by traversing the Huffman Tree.
 
 ### Example Code
+
 void buildHuffmanTree(string text) {
     unordered_map<char, int> freq;
     for (char ch : text) {
