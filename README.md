@@ -109,11 +109,11 @@ Proper cleanup of dynamically allocated memory ensures there are no memory leaks
 
 #### Future Enhancements
 
-. Add support for compressing binary files in addition to text files.
+✅ Add support for compressing binary files in addition to text files.
 
-. Implement multithreading for faster processing of large files.
+✅ Implement multithreading for faster processing of large files.
 
-. Integrate a graphical user interface (GUI) for better usability.
+✅ Integrate a graphical user interface (GUI) for better usability.
 
 ### Acknowledgments
 
